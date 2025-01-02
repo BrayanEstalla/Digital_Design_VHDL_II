@@ -1,4 +1,4 @@
-#Digital_Design_VHDL_II
+# Digital_Design_VHDL_II
 
 This repository includes digital design in VHDL such as debounce, PWM, uart tx and uart rx.
 
