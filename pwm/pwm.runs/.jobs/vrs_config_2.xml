@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Runs Version="1" Minor="0">
+	<Run Id="pwm_1_pwm_0_0_synth_1" LaunchDir="C:/Users/estal/OneDrive/Documentos/Documents_2022_04_03/VHDL_course_2/pwm/pwm.runs/pwm_1_pwm_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="pwm_1_controller_0_0_synth_1" LaunchDir="C:/Users/estal/OneDrive/Documentos/Documents_2022_04_03/VHDL_course_2/pwm/pwm.runs/pwm_1_controller_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="pwm_1_div_50mhz_100hz_0_0_synth_1" LaunchDir="C:/Users/estal/OneDrive/Documentos/Documents_2022_04_03/VHDL_course_2/pwm/pwm.runs/pwm_1_div_50mhz_100hz_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="pwm_1_div_50mhz_500khz_0_0_synth_1" LaunchDir="C:/Users/estal/OneDrive/Documentos/Documents_2022_04_03/VHDL_course_2/pwm/pwm.runs/pwm_1_div_50mhz_500khz_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Parameters>
+		<Parameter Name="runs.monitorLSFJobs" Val="true" Type="bool"/>
+	</Parameters>
+</Runs>
+

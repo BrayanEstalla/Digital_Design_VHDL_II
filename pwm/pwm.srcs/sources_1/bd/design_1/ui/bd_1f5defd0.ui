@@ -1,0 +1,31 @@
+{
+   "ExpandedHierarchyInLayout":"",
+   "guistr":"# # String gsaved with Nlview 7.0.19  2019-03-26 bk=1.5019 VDI=41 GEI=35 GUI=JA:9.0 non-TLS
+#  -string -flagsOSRD
+preplace port enable_0 -pg 1 -lvl 0 -x -80 -y 30 -defaultsOSRD
+preplace port pwm_out_0 -pg 1 -lvl 5 -x 1000 -y 200 -defaultsOSRD
+preplace port clk_in1_0 -pg 1 -lvl 0 -x -80 -y 150 -defaultsOSRD
+preplace port resetn_0 -pg 1 -lvl 0 -x -80 -y 120 -defaultsOSRD
+preplace port f_0 -pg 1 -lvl 5 -x 1000 -y 320 -defaultsOSRD
+preplace port switch_0 -pg 1 -lvl 0 -x -80 -y 250 -defaultsOSRD
+preplace inst div_50mhz_500khz_0 -pg 1 -lvl 2 -x 290 -y 100 -defaultsOSRD
+preplace inst clk_wiz_0 -pg 1 -lvl 1 -x 70 -y 130 -defaultsOSRD
+preplace inst div_50mhz_1hz_0 -pg 1 -lvl 1 -x 70 -y 320 -defaultsOSRD
+preplace inst pwm_0 -pg 1 -lvl 4 -x 840 -y 200 -defaultsOSRD
+preplace inst div_50mhz_100hz_0 -pg 1 -lvl 2 -x 290 -y 321 -defaultsOSRD
+preplace inst controller_0 -pg 1 -lvl 3 -x 550 -y 230 -defaultsOSRD
+preplace netloc div_50mhz_500khz_0_f 1 2 2 NJ 100 700
+preplace netloc controller_0_duty_cycle 1 3 1 N 230
+preplace netloc enable_0_1 1 0 4 NJ 30 N 30 NJ 30 690J
+preplace netloc pwm_0_pwm_out 1 4 1 N 200
+preplace netloc clk_in1_0_1 1 0 1 -50 140n
+preplace netloc resetn_0_1 1 0 4 -60 200 190 170 400 150 680
+preplace netloc div_50mhz_1hz_0_f 1 1 4 170J 391 400J 320 NJ 320 NJ
+preplace netloc switch_0_1 1 0 3 NJ 250 NJ 250 NJ
+preplace netloc clk_wiz_0_clk_out1 1 0 2 -50 390 180
+preplace netloc div_50mhz_100hz_0_f 1 2 1 390 210n
+levelinfo -pg 1 -80 70 290 550 840 1000
+pagesize -pg 1 -db -bbox -sgen -190 0 1130 410
+"
+}
+0
